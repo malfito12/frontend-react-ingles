@@ -3,7 +3,7 @@ import React from 'react'
 const Fechas = () => {
     return (
         <div style={{paddingTop:'5rem'}}>
-            <h1>fechas</h1>
+            <h1>Fechas</h1>
         </div>
     )
 }
